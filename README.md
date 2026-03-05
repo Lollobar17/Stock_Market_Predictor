@@ -18,7 +18,7 @@ This project uses **Machine Learning** algorithms to analyze the historical tren
 - **Matplotlib** (Data Visualization)
 - **python-dotenv** (Credential Security)
 
-## Local configurtion:
+## Local configuration:
 To protect privacy, API keys are not included in this public repository.
 1. Create a '.env' file in the root directory.
 2. Add your FRED API key: 'APIKEY=your_fred_key_here'
