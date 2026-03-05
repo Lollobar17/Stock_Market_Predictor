@@ -1,4 +1,4 @@
-# Stock_Market_Predictor: Machine Learning & Macro Anaysis
+# Stock_Market_Predictor: Machine Learning & Macro Analysis
 
 ! [S&P 500 Trend](social_preview.png)
 
@@ -9,7 +9,7 @@ This project uses **Machine Learning** algorithms to analyze the historical tren
 - **Directional Prediction**: Uses classification models to predict market trends (Up/Down).
 - **API Integration**: Dynamic connection with the FRED Database for real-time macro data.
 - **Secure Management**: Implementation of environment variables ('.env') to protect personal API keys.
-- **Data Visualization**: Detailed historical and predective charts created with Matplotlib.
+- **Data Visualization**: Detailed historical and predictive charts created with Matplotlib.
 
 ## Technologies used:
 - **Python 3**
